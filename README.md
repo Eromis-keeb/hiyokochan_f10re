@@ -1,10 +1,10 @@
-### hiyokochan_f10re ビルドガイド(簡易・自作キーボードビルド経験者向け)
+## hiyokochan_f10re ビルドガイド(簡易・自作キーボードビルド経験者向け)
 
-## 必要な物
+### 必要な物
 
-hiyokochan_f10re基板 x1
+|hiyokochan_f10re基板||x1|
 
-トッププレート x1
+|トッププレート||x1|
 
 RP2040-ZERO x1
 
