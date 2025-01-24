@@ -63,6 +63,9 @@ AZ1UBALLは高さ2.5mmのコンスルーを使って基板に固定しますが�
 AZ1UBALLはビルドガイドに従って組み立てておいてください。
 https://github.com/palette-system/az1uball.git
 
+尚、AZ1UBALLは取り付けなくてもマクロパッド自体は動作しますので必要ない場合は取り付けなくてもOKです
+
+
 
 ![A15033D6-D72B-43E2-932F-A9CADA71EAB5_1_105_c](https://github.com/user-attachments/assets/a49103af-08b4-4af1-bb82-3101559cfed7)
 基板に装着するとこのような形になります
