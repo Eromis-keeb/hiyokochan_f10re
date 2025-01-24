@@ -31,7 +31,7 @@ MXキーキャップ |x10
 
 
 
-
+## 組み立て
 
 ![image](https://github.com/user-attachments/assets/03da02e9-dfe1-4ce2-82e7-f61ff2b2d355)
 
@@ -50,6 +50,7 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 RP20400-zeroは写真のように基板表面から裏面にBOOTやRESETスイッチが向くように"表面"をはんだ付けしてください
 事前にRP2040-ZEROに.uf2ファイル（ファームウェア）を書き込んでコンピューターに認識すさせてからはんだ付けするようにしてください
 
+
 ファイルはコチラ→https://github.com/Eromis-keeb/hiyokochan_f10re/blob/8844423aac2b8ce7689a29006fab8ac0bf46c6d4/hiyokochan_f10re_vial.uf2
 
 
@@ -57,7 +58,12 @@ RP20400-zeroは写真のように基板表面から裏面にBOOTやRESETスイ�
 
 
 
-![491DFD50-61C6-4778-B75B-11053C33963A_1_105_c](https://github.com/user-attachments/assets/82d514f4-db1e-41fb-adc5-5ae765b2b872)
+![491DFD50-61C6-4778-B75B-11053C33963A_1_105_c](https://github.com/user-attachments/assets/1f788524-1eb5-4ddd-80dc-1c58d3a804de)
+
+
+
+
+
 
 AZ1UBALLをマウントする為の”台”をOLED用ソケットを使って作ります。
 AZ1UBALLは高さ2.5mmのコンスルーを使って基板に固定しますが、OLED用ソケットはコンスルーを付ける方とは”逆の”位置に裏面からはんだ付けしてください
