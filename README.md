@@ -1,5 +1,13 @@
 # hiyokochan_f10re ビルドガイド(簡易・ビルド経験者向け)
 
+![9FD26103-95F8-4B8A-AB53-F37E3CD814FF_1_105_c](https://github.com/user-attachments/assets/98ff8c7e-a772-44c4-98ff-d9d73f96f4ac)
+
+
+hiyokochan_f10reは4つのロータリーエンコーダー（一つはモード切り替え用）とAZ1UBALLによるポインティングデバイスを搭載した10個のキーのマクロパッドです
+ファームウェアはVial対応です
+vialのソフトウェアから自由にキーマップを変更可能です
+
+
 ### 必要な物
 
 
