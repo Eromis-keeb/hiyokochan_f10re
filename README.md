@@ -50,6 +50,8 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 RP20400-zeroは写真のように基板表面から裏面にBOOTやRESETスイッチが向くように"表面"をはんだ付けしてください
 事前にRP2040-ZEROに.uf2ファイル（ファームウェア）を書き込んでコンピューターに認識すさせてからはんだ付けするようにしてください
 
+ファイルはコチラ→https://github.com/Eromis-keeb/hiyokochan_f10re/blob/8844423aac2b8ce7689a29006fab8ac0bf46c6d4/hiyokochan_f10re_vial.uf2
+
 
 
 
