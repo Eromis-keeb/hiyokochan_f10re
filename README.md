@@ -35,6 +35,8 @@ MXキーキャップ |x10
 
 LED→SMDダイオード→スイッチソケットの順ではんだ付けします
 
+### LEDの取り付け
+
 ![D1438AEC-C123-4EE8-AD9F-28B62AF59C18_1_105_c](https://github.com/user-attachments/assets/b01ce70b-26af-452e-b86c-6f833be12e88)
 
 
@@ -62,9 +64,42 @@ LEDを置くとこのようになるはずです
 ![A0D3F910-CA83-40D4-AA16-E25D60798242_1_201_a](https://github.com/user-attachments/assets/942b001e-9ffa-49e1-a9d3-2f6d74604570)
 
 表面から見るとこのように見えます
+基板表面から見たときに欠けている部分が左上になっているのが正しい取り付け位置です。
+裏面のLED1〜LED16の順番で付けていきます。
 
+
+### SMD（ダイオード）の取り付け
 
 SMDも同じ要領ではんだ付けしていきます。シルク上の線の入った印刷とSMD本体の線の入った向きを合わせるようにはんだ付けしてください
+
+![DB4F116A-F9F5-444E-9EC8-A703ECAE511F_1_105_c](https://github.com/user-attachments/assets/007c5e54-941a-493c-9743-634721ed3d44)
+
+赤枠の部分がSMD（ダイオード）の取り付け部分
+
+![CCE193B6-B586-407E-80DA-1E26C4CD1A04_1_105_c](https://github.com/user-attachments/assets/2f34d51e-ba56-4fb3-bfbf-2a3016460cdc)
+
+黄色枠の小さいダイオードを拡大すると・・・
+
+![2DDC3A83-5CEF-4921-B0FC-9FF08C35F2C3_1_201_a](https://github.com/user-attachments/assets/03dcead0-b42c-49c8-963d-3cf0ec3464ec)
+
+小さい赤枠内のように縦線がある部分があり・・
+
+
+![0FC21235-EB95-45D9-B0EF-3D4A4D1A78A4_1_105_c](https://github.com/user-attachments/assets/eb1f0cc7-c559-4efe-9615-61ea2564b7fa)
+
+基板側の印刷の赤枠内の縦線と向きを合わせて配置します
+
+予備はんだも縦線がある方向にしておくと向きを間違いにくいです
+
+
+
+![F4365F45-C6CC-42EE-AF02-16164902A7BC_1_105_c](https://github.com/user-attachments/assets/080fff23-a16a-40e8-b451-3bda3460f185)
+
+緑枠内のようにはんだ付けします
+
+
+
+### マイコン（RP2040-ZERO）の取り付け
 
 
 
@@ -90,7 +125,7 @@ RP20400-zeroは写真のように基板表面から裏面にBOOTやRESETスイ�
 
 
 
-
+### AZ1UBALLの台の取り付け
 
 
 AZ1UBALLをマウントする為の”台”をOLED用ソケットを使って作ります。
