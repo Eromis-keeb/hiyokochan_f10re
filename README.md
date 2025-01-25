@@ -131,17 +131,16 @@ RP20400-zeroは写真のように基板表面から裏面にBOOTやRESETスイ�
 
 
 
-
-
-
-![491DFD50-61C6-4778-B75B-11053C33963A_1_105_c](https://github.com/user-attachments/assets/1f788524-1eb5-4ddd-80dc-1c58d3a804de)
-
-
-
 ### AZ1UBALLの台の取り付け
 
 
-AZ1UBALLをマウントする為の”台”をOLED用ソケットを使って作ります。
+
+
+![491DFD50-61C6-4778-B75B-11053C33963A_1_105_c](https://github.com/user-attachments/assets/b7a278fa-1c45-47a6-b36e-14ecaac5afa9)
+
+
+
+AZ1UBALLをマウントする為の”台”（青枠ないオレンジ枠の部分）をOLED用ソケットを使って作ります。
 AZ1UBALLは高さ2.5mmのコンスルーを使って基板に固定しますが、OLED用ソケットはコンスルーを付ける方とは”逆の”位置に裏面からはんだ付けしてください
 
 
