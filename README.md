@@ -3,8 +3,15 @@
 ![9FD26103-95F8-4B8A-AB53-F37E3CD814FF_1_105_c](https://github.com/user-attachments/assets/98ff8c7e-a772-44c4-98ff-d9d73f96f4ac)
 
 
-hiyokochan_f10reは4つのロータリーエンコーダー（一つはモード切り替え用）とAZ1UBALLによるポインティングデバイスを搭載した10個のキーのマクロパッドです。
-ファームウェアはVial対応です。
+hiyokochan_f10reは以下の特徴を備えるマクロパッドです。
+- 10キー
+- 4つのロータリーエンコーダー(１つはモードセレクタ)
+- AZ1UBALLによるポインティング  
+- LEDインジケーター
+- ネジ類を使用しないガスケットマウント構造  
+
+ファームウェアはVial対応です。  
+
 vialのソフトウェアから自由にキーマップを変更可能です。
 
 
@@ -29,30 +36,32 @@ AZ1UBALL |x1
 MXキースイッチ |x10
 MXキーキャップ |x10
 
-ガスケットフォーム以外の部品はTALPキーボードさん遊舎工房さんで調達しています。
-
-
-
+ガスケットフォーム以外の部品はTALPキーボードさん遊舎工房さんで調達しています。<br/>
+<br/>
+<br/>
 ## 組み立て
 
-LED→SMDダイオード→スイッチソケットの順ではんだ付けします。
-
+LED→SMDダイオード→スイッチソケットの順ではんだ付けします。<br/>
+<br/>
+<br/>
+<br/>
 ### LEDの取り付け
-
-![D1438AEC-C123-4EE8-AD9F-28B62AF59C18_1_105_c](https://github.com/user-attachments/assets/b01ce70b-26af-452e-b86c-6f833be12e88)
-
-
-LEDはGnd表記のある右上の位置とLED本体の先が欠けている部分を合わせるように設置し、表面のLight Sideに光る面が向くようになっているか確認の上ではんだ付けしてください。
-
-![4C1DD246-D908-45A1-B441-B565A9225C9D_1_201_a](https://github.com/user-attachments/assets/abda2830-7115-4a42-a6bf-e7282904eb4c)
-
-赤丸の部分の欠けている部分と・・
+\
+![D1438AEC-C123-4EE8-AD9F-28B62AF59C18_1_105_c](https://github.com/user-attachments/assets/b01ce70b-26af-452e-b86c-6f833be12e88)  
 
 
+LEDはGnd表記のある右上の位置とLED本体の先が欠けている部分を合わせるように設置し、表面のLight Sideに光る面が向くようになっているか確認の上ではんだ付けしてください。  
+
+
+![4C1DD246-D908-45A1-B441-B565A9225C9D_1_201_a](https://github.com/user-attachments/assets/abda2830-7115-4a42-a6bf-e7282904eb4c)\
+赤丸の部分の欠けている部分と・・<br/>
+<br/>
+<br/>
 ![1E685349-B94A-4480-B06B-1E09D8CD7234_1_105_c](https://github.com/user-attachments/assets/e235d5ff-dd6e-4c39-9e30-6a863a82a41b)
-
 緑枠のGND表記の欠けたような印刷の部分が合うように配置します。
-
+\
+\
+\
 ![121CD3D2-01D2-4998-93F1-4753CA7DBC22_1_105_c](https://github.com/user-attachments/assets/82a876e2-4903-47f9-bf64-5f3033610344)
 
 私はGnd位置のパッドに予備はんだをしてそこを先につけていく事で向き間違いを防止しています。
